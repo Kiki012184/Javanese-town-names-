@@ -1,7 +1,7 @@
-description: A new TrueGRF project
+description: newGRF that add regency,and city names across Indonesia.
 grfid: f2860b74
 license: CC0-1.0
-name: idtn
+name: Indonesia town names
 type: townname
 url: https://github.com/Kiki012184/idtn
 version: 6

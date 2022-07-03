@@ -1,0 +1,43 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: 'Meulaboh '
+    probability: 1
+  - name: 'Blangpidie '
+    probability: 1
+  - name: 'Kota Jantho '
+    probability: 1
+  - name: Calang
+    probability: 1
+  - name: Tapak Tuan
+    probability: 1
+  - name: 'Singkil '
+    probability: 1
+  - name: Karang Baru
+    probability: 1
+  - name: 'Takengon '
+    probability: 1
+  - name: 'Kutacane '
+    probability: 1
+  - name: 'Idi Rayeuk '
+    probability: 1
+  - name: 'Lhoksukon '
+    probability: 1
+  - name: Simpang tiga rendelong
+    probability: 1
+  - name: 'Bireuen '
+    probability: 1
+  - name: Blang kejeren
+    probability: 1
+  - name: Suka makmue
+    probability: 1
+  - name: Sigil
+    probability: 1
+  - name: 'Meureudu '
+    probability: 1
+  - name: 'Sinabang '
+    probability: 1
+name: Pronvinsi istimewa Aceh
+source: 'Wikipedia '
+subsets: []
