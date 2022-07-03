@@ -1,8 +1,10 @@
 available: true
 id: 0
 mainset:
-- names: []
-name: Indonesia regency capital
+- names:
+  - name: Percobaan lah
+    probability: 1
+name: Indonesia
 source: 'Wikipedia,and true Indonesian '
 subsets:
 - name: Aceh
