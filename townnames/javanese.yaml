@@ -18,6 +18,60 @@ mainset:
     probability: 2
   - name: Jakarta
     probability: 3
+  - name: Soreang
+    probability: 1
+  - name: Ngamprah
+    probability: 1
+  - name: 'Cikarang '
+    probability: 1
+  - name: Cibinong
+    probability: 1
+  - name: Ciamis
+    probability: 1
+  - name: Cianjur
+    probability: 1
+  - name: Sumber
+    probability: 1
+  - name: Tarogong
+    probability: 1
+  - name: Indramayu
+    probability: 1
+  - name: Karawang
+    probability: 1
+  - name: Kuningan
+    probability: 1
+  - name: Majalengka
+    probability: 1
+  - name: Parigi
+    probability: 1
+  - name: Purwakarta
+    probability: 1
+  - name: Subang
+    probability: 1
+  - name: Palabuhanratu
+    probability: 1
+  - name: 'Sumedang '
+    probability: 1
+  - name: Singaparna
+    probability: 1
+  - name: Bandung
+    probability: 2
+  - name: Banjar
+    probability: 2
+  - name: Bekasi
+    probability: 2
+  - name: Bogor
+    probability: 2
+  - name: Cimahi
+    probability: 2
+  - name: 'Cirebon '
+    probability: 2
+  - name: Depok
+    probability: 2
+  - name: 'Sukabumi '
+    probability: 2
+  - name: Tasikmalaya
+    probability: 2
 name: 'Javanese '
 source: 'Wikipedia '
 subsets: []
