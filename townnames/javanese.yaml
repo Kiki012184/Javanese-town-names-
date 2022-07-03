@@ -55,7 +55,7 @@ mainset:
   - name: Singaparna
     probability: 1
   - name: Bandung
-    probability: 2
+    probability: 3
   - name: Banjar
     probability: 2
   - name: Bekasi
@@ -135,6 +135,12 @@ mainset:
   - name: Pekalongan
     probability: 2
   - name: 'Salatiga '
+    probability: 2
+  - name: 'Semarang '
+    probability: 3
+  - name: Surakarta
+    probability: 2
+  - name: Tegal
     probability: 2
 name: 'Javanese '
 source: 'Wikipedia '
