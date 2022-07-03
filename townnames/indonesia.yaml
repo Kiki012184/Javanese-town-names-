@@ -7,4 +7,47 @@ source: null
 subsets:
 - name: Aceh
   parts:
-  - names: []
+  - names:
+    - name: 'Banda Aceh '
+      probability: 1
+    - name: 'Sabang '
+      probability: 1
+    - name: 'Sigli '
+      probability: 1
+    - name: 'Meulaboh '
+      probability: 1
+    - name: 'Takengon '
+      probability: 1
+    - name: 'Lhokseumawe '
+      probability: 1
+    - name: Langsa
+      probability: 1
+    - name: 'Kutacane '
+      probability: 1
+    - name: 'Tapaktuan '
+      probability: 1
+- name: 'Sumatera barat '
+  parts:
+  - names:
+    - name: 'Padang '
+      probability: 1
+    - name: 'Pariaman '
+      probability: 1
+    - name: 'Bukittinggi '
+      probability: 1
+    - name: 'Lubuk Sikaping '
+      probability: 1
+    - name: 'Payakumbuh '
+      probability: 1
+    - name: 'Padang Panjang '
+      probability: 1
+    - name: 'Solok '
+      probability: 1
+    - name: 'Batusangkar '
+      probability: 1
+    - name: 'Sawahlunto '
+      probability: 1
+    - name: Muaro
+      probability: 1
+    - name: Painan
+      probability: 1
