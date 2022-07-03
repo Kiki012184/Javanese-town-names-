@@ -72,6 +72,70 @@ mainset:
     probability: 2
   - name: Tasikmalaya
     probability: 2
+  - name: Banjarnegara
+    probability: 1
+  - name: Purwokerto
+    probability: 1
+  - name: Batang
+    probability: 1
+  - name: Blora
+    probability: 1
+  - name: Boyolali
+    probability: 1
+  - name: Brebes
+    probability: 1
+  - name: Cilacap
+    probability: 1
+  - name: Demak
+    probability: 1
+  - name: Purwodadi
+    probability: 1
+  - name: Jepara
+    probability: 1
+  - name: Karanganyar
+    probability: 1
+  - name: Kebumen
+    probability: 1
+  - name: Kendal
+    probability: 1
+  - name: Klaten
+    probability: 1
+  - name: Kudus
+    probability: 1
+  - name: Mungkid
+    probability: 1
+  - name: Pati
+    probability: 1
+  - name: Kajen
+    probability: 1
+  - name: Pemalang
+    probability: 1
+  - name: Purbalingga
+    probability: 1
+  - name: Purworejo
+    probability: 1
+  - name: Rembang
+    probability: 1
+  - name: Ungaran
+    probability: 1
+  - name: Sragen
+    probability: 1
+  - name: Sukoharjo
+    probability: 1
+  - name: Slawi
+    probability: 1
+  - name: Temanggung
+    probability: 1
+  - name: Wonogiri
+    probability: 1
+  - name: Wonosobo
+    probability: 1
+  - name: Magelang
+    probability: 2
+  - name: Pekalongan
+    probability: 2
+  - name: 'Salatiga '
+    probability: 2
 name: 'Javanese '
 source: 'Wikipedia '
 subsets: []
