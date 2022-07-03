@@ -152,6 +152,82 @@ mainset:
     probability: 2
   - name: 'Yogyakarta '
     probability: 3
+  - name: Bangkalan
+    probability: 1
+  - name: Banyuwangi
+    probability: 1
+  - name: Kanigoro
+    probability: 1
+  - name: Bojonegoro
+    probability: 1
+  - name: Bondowoso
+    probability: 1
+  - name: Gresik
+    probability: 1
+  - name: Kaliwates
+    probability: 1
+  - name: Jombang
+    probability: 1
+  - name: Ngasem
+    probability: 1
+  - name: Lamongan
+    probability: 1
+  - name: Lumajang
+    probability: 1
+  - name: Caruban
+    probability: 1
+  - name: Magetan
+    probability: 1
+  - name: Kepanjen
+    probability: 1
+  - name: Mojosari
+    probability: 1
+  - name: Nganjuk
+    probability: 1
+  - name: Ngawi
+    probability: 1
+  - name: Pacitan
+    probability: 1
+  - name: Pamekasan
+    probability: 1
+  - name: Bangil
+    probability: 1
+  - name: Ponorogo
+    probability: 1
+  - name: Kraksaan
+    probability: 1
+  - name: Sampang
+    probability: 1
+  - name: Sidoarjo
+    probability: 1
+  - name: Situbondo
+    probability: 1
+  - name: Sumenep
+    probability: 1
+  - name: Trenggalek
+    probability: 1
+  - name: Tuban
+    probability: 1
+  - name: Tulungagung
+    probability: 1
+  - name: Batu
+    probability: 2
+  - name: 'Blitar '
+    probability: 2
+  - name: Kediri
+    probability: 2
+  - name: Madiun
+    probability: 2
+  - name: Malang
+    probability: 2
+  - name: Mojokerto
+    probability: 2
+  - name: Pasuruan
+    probability: 2
+  - name: Probolinggo
+    probability: 2
+  - name: 'Surabaya '
+    probability: 3
 name: 'Javanese '
 source: 'Wikipedia '
 subsets: []
