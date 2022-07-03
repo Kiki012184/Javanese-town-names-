@@ -1,0 +1,28 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Karang
+    probability: 1
+  - name: Tanjung
+    probability: 1
+  - name: Agung
+    probability: 1
+  - name: Suka
+    probability: 1
+  - name: Sumber
+    probability: 1
+  - name: Kali
+    probability: 1
+- names:
+  - name: Asem
+    probability: 1
+  - name: Setail
+    probability: 1
+  - name: Wangi
+    probability: 1
+  - name: Agung
+    probability: 1
+name: Javanese Village (Randomised)
+source: Names based on banyuwangian villages
+subsets: []
