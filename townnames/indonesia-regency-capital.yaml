@@ -240,3 +240,56 @@ subsets:
       probability: 1
     - name: Karang Tinggi
       probability: 1
+    - name: Kota Arga Makmur
+      probability: 1
+    - name: Kaur Selatan
+      probability: 1
+    - name: Kepahiang
+      probability: 1
+    - name: Tubei
+      probability: 1
+    - name: Kota Mukomuko
+      probability: 1
+    - name: Curup
+      probability: 1
+    - name: Pasar Tais
+      probability: 1
+    - name: 'Bengkulu '
+      probability: 2
+- name: 'Sumatera Selatan '
+  parts:
+  - names:
+    - name: Pangkalan Balai
+      probability: 1
+    - name: Tebing Tinggi
+      probability: 1
+    - name: Lahat
+      probability: 1
+    - name: Muara Enim
+      probability: 1
+    - name: Sekayu
+      probability: 1
+    - name: Muara Beliti
+      probability: 1
+    - name: Rupit
+      probability: 1
+    - name: Indralaya
+      probability: 1
+    - name: Kayu Agung
+      probability: 1
+    - name: Baturaja
+      probability: 1
+    - name: Muaradua
+      probability: 1
+    - name: Martapura
+      probability: 1
+    - name: Talang Ubi
+      probability: 1
+    - name: 'Lubuklinggau '
+      probability: 2
+    - name: Pagar Alam
+      probability: 2
+    - name: Palembang
+      probability: 2
+    - name: 'Prabumulih '
+      probability: 2
