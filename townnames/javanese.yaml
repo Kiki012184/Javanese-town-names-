@@ -13,7 +13,7 @@ mainset:
   - name: Cilegon
     probability: 2
   - name: Serang
-    probability: 2
+    probability: 3
   - name: Tangerang
     probability: 2
   - name: Jakarta
@@ -142,6 +142,16 @@ mainset:
     probability: 2
   - name: Tegal
     probability: 2
+  - name: Bantul
+    probability: 2
+  - name: Wonosari
+    probability: 2
+  - name: Wates
+    probability: 2
+  - name: Sleman
+    probability: 2
+  - name: 'Yogyakarta '
+    probability: 3
 name: 'Javanese '
 source: 'Wikipedia '
 subsets: []
