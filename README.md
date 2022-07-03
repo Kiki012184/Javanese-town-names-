@@ -1,4 +1,3 @@
-# Blank TrueGRF template (Townname)
+# Javanese town names 
 
-This is a completely blank [TrueGRF](https://truegrf.truebrain.nl/) project to design your townname GRFs with.
-TrueGRF makes creating NewGRFs easy.
+Javanese town names by Kiki012,ft. TrueGRF
