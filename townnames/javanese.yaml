@@ -1,7 +1,23 @@
 available: true
 id: 1
 mainset:
-- names: []
+- names:
+  - name: Rangkasbitung
+    probability: 1
+  - name: Pandeglang
+    probability: 1
+  - name: Ciruas
+    probability: 1
+  - name: Tigaraksa
+    probability: 1
+  - name: Cilegon
+    probability: 2
+  - name: Serang
+    probability: 2
+  - name: Tangerang
+    probability: 2
+  - name: Jakarta
+    probability: 3
 name: 'Javanese '
-source: null
+source: 'Wikipedia '
 subsets: []
